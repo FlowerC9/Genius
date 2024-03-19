@@ -1,4 +1,4 @@
-# An AI Saas Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# An AI Saas Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
 Features:
 
